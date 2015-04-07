@@ -15,6 +15,6 @@ This involves
 How do I run it?
 ------------------------------------------------------------
 
-Running `vagrant up` from within the repo dir will download an ubuntu 14.04 VM,
-start it, and run the included `vm_bootstrap.sh` script inside of it. Read that
+Running ``vagrant up`` from within the repo dir will download an ubuntu 14.04 VM,
+start it, and run the included ``vm_bootstrap.sh`` script inside of it. Read that
 script to see more of what happens.
